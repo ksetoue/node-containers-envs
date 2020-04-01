@@ -1,0 +1,19 @@
+{
+  "name": "node-containers-envs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ksetoue/node-containers-envs.git"
+  },
+  "author": "ksetoue",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ksetoue/node-containers-envs/issues"
+  },
+  "homepage": "https://github.com/ksetoue/node-containers-envs#readme"
+}
