@@ -2,9 +2,10 @@
   "name": "node-containers-envs",
   "version": "1.0.0",
   "description": "",
-  "main": "main.js",
+  "main": "src/main.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "dev": "nodemon"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/ksetoue/node-containers-envs/issues"
   },
-  "homepage": "https://github.com/ksetoue/node-containers-envs#readme"
+  "homepage": "https://github.com/ksetoue/node-containers-envs#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.2"
+  }
 }
