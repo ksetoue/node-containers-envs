@@ -6,6 +6,7 @@ This is a sample application for working with node apps in vscode containers.
 - Docker
 - VSCode 
 - Dev Container extention for VSCode
+- Postman
 
 #### Running 
 
@@ -14,3 +15,4 @@ This is a sample application for working with node apps in vscode containers.
 3. Type `Remote-Containers: Open Folder in Container` and select this option
 4. Wait until the path for the app folder open in the container, with an command line inside
 5. Run `npm run dev` to start the application 
+6. Create a get request on Postman to the following url: `http://localhost:3000/test-get`
